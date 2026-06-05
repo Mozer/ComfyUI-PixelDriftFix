@@ -22,4 +22,10 @@ Install via git URL in comfy manager. Restart.
 
 Workflows are in workflows folder.
 
-This node can be used for old image restoration. Workflow for klein-9b + pixel_drift_fix + blend_with_original is in Workflows folder.
+This node can also be used for old image restoration. Workflow for klein-9b + pixel_drift_fix + blend_with_original is in Workflows folder.
+
+## Demo video
+
+https://github.com/user-attachments/assets/7341c4f8-5f28-4823-8682-1745060fdada
+
+
