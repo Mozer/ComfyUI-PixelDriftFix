@@ -12,6 +12,7 @@ A ComfyUI custom node designed to eliminate pixel drifting, stretching, and mino
 - resizes output image to the exact size of source image
 - source and output image should be similar, should have at least 10 similar points.
 - can add tiny strip of dupilicate pixels on the edges
+- works with any AI editor, klein, qwen-edit, any one.
 
 ## Installation
 
